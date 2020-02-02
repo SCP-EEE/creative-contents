@@ -1,0 +1,18 @@
+#+TITLE: creative_contents
+#+AUTHOR: SCP-EEE
+
+* TODO MPLverError
+- Motion Programming Language.
+
+* TODO NoneverError
+- She... This is funny content.
+
+* TODO H3DMPverError
+- Human 3D Model Protocol.
+
+
+
+   人型3DModelの規格がないので作成。
+
+
+   モデルの各要素の名称や、3Dモデルようのファイル、等の規格の作成予定。

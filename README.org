@@ -4,8 +4,8 @@
 * TODO MPLverError
 - Motion Programming Language.
 
-* TODO NoneverError
-- She... This is funny content.
+* TODO NONEverError
+- She... This is a funny content.
 
 * TODO H3DMPverError
 - Human 3D Model Protocol.
@@ -16,3 +16,26 @@
 
 
    モデルの各要素の名称や、3Dモデルようのファイル、等の規格の作成予定。
+
+
+* TODO SINCverError
+- SINC Is Not Creator.
+   
+   
+   創作物の権利を譲渡することに全力をかける為のシステムの草案。
+   
+   
+   1. 依頼者を確認するための三重認証機構
+      - 依頼者名内蔵イラストの強制（イラストに含まれるサイン、おしゃれなやつ。）
+      - イラストメタデータへの依頼者名記述（イラスト本体の電子署名も一緒に記述）
+      - 配布時にイラストの電子署名（電子署名を含むイラストの電子署名）の包括
+   2. ブロックチェーンによる取引の正当性の保証
+   3. 独自の金融取引システムによるイラスト価値の固定化
+      - イラストの権利を譲り受ける場合にはビットコインにて購入（取引の正当性保証の維持。）
+      - 使用価値がなくなったものはイラストの公式化が行える（SINCサイト内、維持・管理化。有料。SINCシステムにおける唯一のSCP-EEEへと還元される資金源）
+      - 公式ではそれぞれの著作物がコピーレフトにて二次著作物の作成許可と商用利用の保証がされる（但し、著作者名の強要と改変の自由化が強要される）
+      
+      
+* 参考
+[[http://www.chizai-furukawa.jp/article/13942700.html]]
+[[https://www.komon-lawyer.jp/industry-type/it/qa17/]]

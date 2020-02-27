@@ -47,3 +47,8 @@
    2. 世界観を再現した環境をDocker構築
    3. 必要があればそれに応じた著作物を作成し、GPLv3(2020年においては)にて配布
       - github上でライセンスは明記してるから他のサイトにて気をつける
+* TODO BCVCS
+- BlockChainVersionControlSystem
+
+
+   取引台帳基盤の進捗争奪型変更管理機構の考案

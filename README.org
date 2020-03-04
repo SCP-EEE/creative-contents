@@ -52,3 +52,10 @@
 
 
    取引台帳基盤の進捗争奪型変更管理機構の考案
+
+* TODO VtuverKit
+* TODO p2pVertualWorld
+* TODO CodeMedia
+- All media make from code
+* TODO TINY
+- TINY Is Not Youtu⚪︎e

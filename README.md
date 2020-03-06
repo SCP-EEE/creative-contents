@@ -1,4 +1,4 @@
-# creative_contents
+# creative-contents
 創作物をまとめておいたり、創作物をコード化する場所。
 
 

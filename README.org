@@ -1,19 +1,19 @@
 #+TITLE: creative_contents
 #+AUTHOR: SCP-EEE
 
-* TODO ‪KotorIverError‬
+* TODO ‪KotorIverSCP-EEE
    1. 記憶領域を持っていないという設定のもとに自由文章作成を行うChatterBot‬
    2. 投げかけられた文章のみから関係のない文章を作成することを目的としている‬
    3. また無発言に対しても文章を作成することができそれらは一貫して詩のようなものとなる‬
    4. 長期記憶はできないが短期的に感情を把握しうる。‬
 
-* TODO MPLverError
+* TODO MPLverSCP-EEE
 - Motion Programming Language.
 
-* TODO NONEverError
+* TODO NONEverSCP-EEE
 - She... This is a funny content.
 
-* TODO H3DMPverError
+* TODO H3DMPverSCP-EEE
 - Human 3D Model Protocol.
 
 
@@ -24,7 +24,7 @@
    モデルの各要素の名称や、3Dモデルようのファイル、等の規格の作成予定。
 
 
-* TODO SINCverError
+* TODO SINCverSCP-EEE
 - SINC Is Not Creator.
    
    
@@ -48,7 +48,7 @@
    3. 必要があればそれに応じた著作物を作成し、GPLv3(2020年においては)にて配布
       - github上でライセンスは明記してるから他のサイトにて気をつける
 * TODO BCVCS
-- BlockChainVersionControlSystem
+- Block Chain Version Control System
 
 
    取引台帳基盤の進捗争奪型変更管理機構の考案
@@ -60,3 +60,9 @@
 * TODO TINY
 - TINY Is Not Youtu⚪︎e
 * TODO p2pVRHome
+* TODO TBAS
+- Terminal Believable Agent Shell
+   端末上感情指向型司書官
+   1. 伺かゴーストの完全動作
+   2. 会話式指令実行端末であり友達のような人工無能(chatter bot)
+   3. 複数の人格(ゴースト)をファイルによって持つことで数多くの自動処理(emacsのお節介の再現)と応対が可能

@@ -91,3 +91,5 @@
 - 人口無能なVTuber
    1. github上にて不特定多数の人間によって開発を行い自動的に進捗を反映
    2. j
+* TODO scriptall
+- HTMLのscriptタグで全てのスクリプト言語実行するブラウザの実装
